@@ -1,4 +1,4 @@
-![Banner do Projeto](assets/banner.png)
+![Banner do Projeto](Assets/Designer.jpeg)
 
 
 # ATtyni85_Exfiltration
