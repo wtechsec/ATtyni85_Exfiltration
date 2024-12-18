@@ -9,41 +9,40 @@ Um operador de Red Team foca em um ataque presencial, onde utiliza técnicas de 
 ## Etapas do Ataque ##
 
 # Reconhecimento Prévio (Reconnaissance)
-
 - Coleta de informações sobre o alvo:
 - Identificar as rotinas do indivíduo ou grupo (ex.: hábitos, horários, preferências).
 - Obter dados de contexto (e-mail corporativo, setor de trabalho, hierarquia interna).
 - Mapeamento de tecnologias utilizadas no ambiente (ex.: dispositivos de login, sistemas operacionais).
 
 # Definir o método de contato direto:
-Presencial: Abordagem na área de trabalho ou em um local público.
-Digital: Configuração de dispositivos como USB Rubber Ducky, BadUSB ou ferramentas semelhantes.
+-Presencial: Abordagem na área de trabalho ou em um local público.
+- Digital: Configuração de dispositivos como USB Rubber Ducky, BadUSB ou ferramentas semelhantes.
 
 # Preparação do script malicioso:
-Desenvolver um script convincente que simule um login legítimo.
-Incorporar coleta e envio seguro das credenciais (ex.: envio via e-mail ou armazenado localmente para exfiltração posterior).
+- Desenvolver um script convincente que simule um login legítimo.
+- Incorporar coleta e envio seguro das credenciais (ex.: envio via e-mail ou armazenado localmente para exfiltração posterior).
 
 # Personalização do ataque:
-Usar elementos que reforcem a confiança, como logos, formulários, ou mensagens relacionadas à empresa.
+- Usar elementos que reforcem a confiança, como logos, formulários, ou mensagens relacionadas à empresa.
 
 # Execução do Ataque
-Uso de sensos psicológicos.
-Urgência: "Precisamos resolver esse problema agora ou sua conta será bloqueada!"
-Colaboração: "Estamos testando uma nova atualização de segurança. Você poderia me ajudar a validar sua conta?"
-Autoridade: "Sou do time de TI e estamos enfrentando problemas de autenticação no sistema."
-Confiança: "Recebi uma solicitação do seu gerente pedindo ajuda com isso."
-Simular empatia para relaxar a vítima e evitar desconfianças.
+- Uso de sensos psicológicos.
+- Urgência: "Precisamos resolver esse problema agora ou sua conta será bloqueada!"
+- Colaboração: "Estamos testando uma nova atualização de segurança. Você poderia me ajudar a validar sua conta?"
+- Autoridade: "Sou do time de TI e estamos enfrentando problemas de autenticação no sistema."
+- Confiança: "Recebi uma solicitação do seu gerente pedindo ajuda com isso."
+- Simular empatia para relaxar a vítima e evitar desconfianças.
 
 # Ação da Vítima:
-O atacante fornece um dispositivo ou formulário, que pode ser.
-Um computador ou tablet configurado com o script malicioso.
-Um link falso enviado para o e-mail da vítima (caso combinado com abordagens online).
+- O atacante fornece um dispositivo ou formulário, que pode ser.
+- Um computador ou tablet configurado com o script malicioso.
+- Um link falso enviado para o e-mail da vítima (caso combinado com abordagens online).
 
 # Coleta das Credenciais:
-Assim que a vítima insere suas informações, o script.
-Armazena localmente os dados para exfiltração.
-Envia os dados para o operador em tempo real.
-Pós-execução
+- Assim que a vítima insere suas informações, o script.
+- Armazena localmente os dados para exfiltração.
+- Envia os dados para o operador em tempo real.
+- Pós-execução
 
 ## Validação do Sucesso ##
 
