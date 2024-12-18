@@ -1,3 +1,6 @@
+![Banner do Projeto](assets/banner.png)
+
+
 # ATtyni85_Exfiltration
 
 Um projeto para exfiltração de dados usando dispositivos ATtiny85, configurados para simular am ataque HID (Human Interface Device) atrelado a engenharia social e técnicas de exfiltração usando comandos no powershell e webhooks.
