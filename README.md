@@ -16,7 +16,7 @@ Um operador de Red Team foca em um ataque presencial, onde utiliza técnicas de 
 
 # Definir o método de contato direto:
 - Presencial: Abordagem na área de trabalho ou em um local público.
-- Digital: Configuração de dispositivos como USB Rubber Ducky, BadUSB ou ferramentas semelhantes.
+- Digital: Configuração de dispositivos como USB Rubber Ducky, ATtyni85 = digispark ou ferramentas semelhantes.
 
 # Preparação do script malicioso:
 - Desenvolver um script convincente que simule um login legítimo.
@@ -81,6 +81,8 @@ Registrar o processo e os resultados para o cliente (caso seja uma simulação c
 - https://raw.githubusercontent.com/digistump/arduino-boards-index/master/package_digistump_index.json
 # Arquivo de tradução ABNT2
 - https://github.com/jcldf/digisparkABNT2/blob/master/scancode-ascii-table.h
+  
+- O arquivo scancode-ascii-table.h deve ser colocado dentro do diretório C:\Users\USUÁRIO\AppData\Local\Arduino15\packages\digistump\hardware\avr\1.6.7\libraries\DigisparkKeyboard
 
   #### Tutorial em video ###
 
