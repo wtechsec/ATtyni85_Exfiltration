@@ -86,7 +86,7 @@ Registrar o processo e os resultados para o cliente (caso seja uma simulação c
 
   #### Tutorial em video ###
 
-[![Assista ao vídeo no YouTube](https://img.youtube.com/vi/CODIGO_DO_VIDEO/hqdefault.jpg)](https://www.youtube.com/watch?v=CODIGO_DO_VIDEO)
+[![Assista ao vídeo no YouTube]([https://img.youtube.com/vi/rCtWvcGW0go/hqdefault.jpg)](https://www.youtube.com/watch?v=CODIGO_DO_VIDEO](https://youtu.be/rCtWvcGW0go))
 
 
 
