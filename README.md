@@ -82,4 +82,9 @@ Registrar o processo e os resultados para o cliente (caso seja uma simulação c
 # Arquivo de tradução ABNT2
 - https://github.com/jcldf/digisparkABNT2/blob/master/scancode-ascii-table.h
 
+  #### Tutorial em video ###
+
+[![Assista ao vídeo no YouTube](https://img.youtube.com/vi/CODIGO_DO_VIDEO/hqdefault.jpg)](https://www.youtube.com/watch?v=CODIGO_DO_VIDEO)
+
+
 
