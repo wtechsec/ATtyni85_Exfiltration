@@ -15,7 +15,7 @@ Um operador de Red Team foca em um ataque presencial, onde utiliza técnicas de 
 - Mapeamento de tecnologias utilizadas no ambiente (ex.: dispositivos de login, sistemas operacionais).
 
 # Definir o método de contato direto:
--Presencial: Abordagem na área de trabalho ou em um local público.
+- Presencial: Abordagem na área de trabalho ou em um local público.
 - Digital: Configuração de dispositivos como USB Rubber Ducky, BadUSB ou ferramentas semelhantes.
 
 # Preparação do script malicioso:
@@ -55,17 +55,17 @@ Registrar o processo e os resultados para o cliente (caso seja uma simulação c
 
 ## 📋 Funcionalidades
 
-*Abre o PowerShell: O script usa o atalho Win + R para abrir o "Executar" e em seguida executa o PowerShell com uma janela de tamanho ajustado para 30 colunas e 10 linhas.
+- Abre o PowerShell: O script usa o atalho Win + R para abrir o "Executar" e em seguida executa o PowerShell com uma janela de tamanho ajustado para 30 colunas e 10 linhas.
 
-*Solicita as credenciais: O comando $host.ui.PromptForCredential solicita ao usuário que insira suas credenciais (usuário e senha).
+- Solicita as credenciais: O comando $host.ui.PromptForCredential solicita ao usuário que insira suas credenciais (usuário e senha).
 
-*Aguarda a interação do usuário: O script aguarda até que o usuário insira suas credenciais e clique em "OK", com o comando Start-Sleep -s 10 para dar tempo ao usuário.
+- Aguarda a interação do usuário: O script aguarda até que o usuário insira suas credenciais e clique em "OK", com o comando Start-Sleep -s 10 para dar tempo ao usuário.
 
-*Extrai as credenciais: O PowerShell obtém as credenciais inseridas pode ser user de domínio ou local e armazena os dados de nome de usuário e senha nas variáveis $user e $pass.
+- Extrai as credenciais: O PowerShell obtém as credenciais inseridas pode ser user de domínio ou local e armazena os dados de nome de usuário e senha nas variáveis $user e $pass.
 
-*Envia os dados para o webhook: O script utiliza Invoke-WebRequest para enviar os dados via HTTP POST para o webhook especificado (substitua o URL com o seu próprio webhook).
+- Envia os dados para o webhook: O script utiliza Invoke-WebRequest para enviar os dados via HTTP POST para o webhook especificado (substitua o URL com o seu próprio webhook).
 
-*Finaliza e faz a limpeza: O script finaliza a execução e realiza a limpeza de arquivos temporários, além de acender um LED como um sinal de término do processo.
+- Finaliza e faz a limpeza: O script finaliza a execução e realiza a limpeza de arquivos temporários, além de acender um LED como um sinal de término do processo.
 
 ## 🚀 Configuração
 
