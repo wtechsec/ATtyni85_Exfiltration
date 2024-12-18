@@ -10,10 +10,10 @@ Um operador de Red Team foca em um ataque presencial, onde utiliza técnicas de 
 
 # Reconhecimento Prévio (Reconnaissance)
 
-Coleta de informações sobre o alvo:
-Identificar as rotinas do indivíduo ou grupo (ex.: hábitos, horários, preferências).
-Obter dados de contexto (e-mail corporativo, setor de trabalho, hierarquia interna).
-Mapeamento de tecnologias utilizadas no ambiente (ex.: dispositivos de login, sistemas operacionais).
+- Coleta de informações sobre o alvo:
+- Identificar as rotinas do indivíduo ou grupo (ex.: hábitos, horários, preferências).
+- Obter dados de contexto (e-mail corporativo, setor de trabalho, hierarquia interna).
+- Mapeamento de tecnologias utilizadas no ambiente (ex.: dispositivos de login, sistemas operacionais).
 
 # Definir o método de contato direto:
 Presencial: Abordagem na área de trabalho ou em um local público.
